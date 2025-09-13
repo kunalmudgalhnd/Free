@@ -9,7 +9,7 @@
   },
   {
     "id": "2",
-    "code": "SUPER5000",
+    "code": "SUPER0",
     "discount": 50,
     "discountType": "fixed",
     "description": "Flat ₹50 off on orders above ₹299",
