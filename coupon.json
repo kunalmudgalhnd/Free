@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "code": "WELCOME",
+    "discount": 49,
+    "discountType": "fixed",
+    "description": "Flat ₹49 off on orders above ₹199",
+    "minOrderValue": 199
+  },
+  {
+    "id": "2",
+    "code": "SUPER5000",
+    "discount": 50,
+    "discountType": "fixed",
+    "description": "Flat ₹50 off on orders above ₹299",
+    "minOrderValue": 299
+  },
+  {
+    "id": "3",
+    "code": "FREESHIP",
+    "discount": 30,
+    "discountType": "fixed",
+    "description": "Free delivery on orders above ₹499",
+    "minOrderValue": 499
+  },
+  {
+    "id": "4",
+    "code": "BIGSAVE",
+    "discount": 20,
+    "discountType": "percentage",
+    "description": "20% off up to ₹150 on all orders",
+    "minOrderValue": 599
+  }
+]
