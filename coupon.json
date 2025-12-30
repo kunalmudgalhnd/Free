@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "code": "WELCOME",
-    "discount": 49,
+    "code": "KUNAL",
+    "discount": 99,
     "discountType": "fixed",
-    "description": "Flat ₹49 off on orders above ₹199",
-    "minOrderValue": 199
+    "description": "Flat ₹99 off on orders above ₹300",
+    "minOrderValue": 300
   },
   {
     "id": "2",
